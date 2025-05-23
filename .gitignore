@@ -1,0 +1,7 @@
+zig-out
+.zig-cache
+apk/
+*.apk
+key.pem
+key.pk8
+key.x509.pem
